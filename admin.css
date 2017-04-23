@@ -1,0 +1,22 @@
+*{
+margin:0px;
+padding: 0px;
+}
+u
+.dashboard{
+	background:#0277bd;
+	color: yellow; 
+	box-shadow: 0px 0px 3px grey;
+	border-radius: 5px;
+	
+}
+.about
+{
+	background: white;
+	box-shadow:0px 0px 20px  grey;
+	width: auto;
+	margin: 10px;
+}
+.table{
+	padding: 10px;
+}

@@ -1,0 +1,118 @@
+*{
+margin:0px;
+padding: 0px;
+}
+.msg_chat{
+	background:#e0e0e0;
+	font-size:17px;
+	padding:5px;
+	border-radius:4px;
+}
+.msg_chat_box{
+	margin-top:10px;
+	height:350px;
+	overflow-y:scroll;
+	max-width:100%;
+}
+ul{list-style-type: none;
+	text-decoration:none;
+}
+ul li{
+    padding: 10px;
+	
+}
+ul li a>:hover{color:#e57373;}
+.box{
+	/*border-right:1px solid grey;
+	box-shadow:1px 0px 1px  grey;*/
+	height: 100%;
+	padding:5%;
+}
+.about
+{
+	background: white;
+	/*box-shadow:0px 0px 3px  grey;*/
+	width: auto;
+	font-family: georgian;
+}
+#photo{
+	width:20%; height: 20%; position:absolute; margin-top:-60px; z-index:2;
+}
+#header li{float:left;}
+.nav1 {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.nav1 > li {
+  position: relative;
+  display: block;
+}
+.nav1 > li > a {
+  position: relative;
+  display: block;
+  padding: 2px;
+}
+.nav1 > li > a:hover,
+.nav1 > li > a:focus {
+  text-decoration: none;
+  background-color: #0277bd;
+}
+.nav1 > li.disabled > a {
+  color: #777;
+}
+.nav1 > li.disabled > a:hover,
+.nav1 > li.disabled > a:focus {
+  color: #777;
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+}
+.nav1 .open > a,
+.nav1 .open > a:hover,
+.nav1 .open > a:focus {
+  background-color: #337ab7;
+  border-color: #337ab7;
+}
+.nav1 .nav-divider {
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+.nav1 > li > a > img {
+  max-width: none;
+}
+#preference{
+	transition:0.7s;
+}
+.model{
+	display:none;
+	position:fixed;
+	z-index:7;
+	overflow:auto;
+	background-color:black;
+	height: 300px;
+	width:400px;
+	margin-top: 120px;
+	margin-left: 400px;
+	padding: 40px;
+	outline: 1px solid grey;
+	box-shadow: 0px 0px 10px grey;
+}
+   .edit_model{
+	display:;
+	position:fixed;
+	z-index:7;
+	overflow:auto;
+	height: 300px;
+	width:400px;
+	margin-top: 20%;
+	margin-left: 20%;
+	padding: 30px;
+	outline: 1px solid grey;
+	box-shadow: 0px 0px 10px grey;
+}
+.conversation{
+	padding:15%; font-size:20px; color:#0270bd; background:#e0e0e0; border-radius:50%; margin-top:20%;
+}
