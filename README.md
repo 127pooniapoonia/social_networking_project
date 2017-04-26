@@ -4,6 +4,7 @@
      HTMl , CSS, BOOTSTRAP, JAVASCRIPT, JQUERY
 <h3> BACK END TECHNOGIES -</h3>
      PHP, MYSQL </br>
+     
 # PROJECT SCOPE
 1) This project provides users to register their various type of profile like social, personal, general and professional.
 2) This project provides users to send message to another user.
@@ -11,7 +12,7 @@
 4) This project provides user to  join the pages(communities) according to their scenario.
 5) This project provides the user to maintain their friend list and user can update their friend list by sending request and accepting request.
 
-# SREENSHOTS
+# SCREENSHOTS
 ![screenshot 251](https://cloud.githubusercontent.com/assets/16289294/25417848/d2eee05c-2a0c-11e7-9a28-17037391e27e.png)
 ![screenshot 252](https://cloud.githubusercontent.com/assets/16289294/25417847/d2ecbcbe-2a0c-11e7-948b-cbfd8cef9054.png)
 ![screenshot 254](https://cloud.githubusercontent.com/assets/16289294/25417845/d2eb9a46-2a0c-11e7-9ccc-eabdff82953e.png)
