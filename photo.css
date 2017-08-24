@@ -1,0 +1,12 @@
+.element {
+  display: inline-flex;
+  margin-top:-10px;
+  position:absolute;}
+i:hover {
+  opacity: 0.6;
+}
+#input1 {
+  display: none;
+}
+
+

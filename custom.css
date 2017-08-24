@@ -1,0 +1,127 @@
+*
+{
+   margin: 0;
+   padding: 0;
+}
+body{background-image:url('images/5.jpg')}
+.header{
+    padding: 10px;	
+	width: auto;
+	box-shadow: 0px 5px 10px grey;
+}
+.error {color: #FF0000; float:left;}
+.myButton {
+	-moz-box-shadow: 3px 4px 0px 0px #1564ad;
+	-webkit-box-shadow: 3px 4px 0px 0px #1564ad;
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background-color:#79bbff;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:6px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton:hover {
+	background-color:#0277bd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.logo1{
+	color: white;
+	font-style: bold;
+	font-family: cursive;
+}
+.box{
+	margin-top: 15px;
+	color: white;
+}
+.box1{
+	margin-top: 10px;
+	color: white;
+}
+body{
+	background: #e0e0e0;
+	
+}
+.content{
+	padding: 10px;
+	color: black;
+}
+.sign_in_form{
+	padding: 10px;
+	color: black;
+}
+.link{
+	color: black;
+}
+.footer_content{ margin-left: 90px;
+        margin-right: 90px;
+}
+ ul{
+	 list-style-type: none;
+ }
+ ul li {
+	 color: black;
+	 text-decoration:none;
+	 
+ }
+ .overlay {
+    height:0;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color:#009688;
+    background-color: rgba(29, 21, 21, 0.91);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top:2%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 75px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
