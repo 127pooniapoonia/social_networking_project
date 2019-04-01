@@ -12,4 +12,5 @@
 4) This project provides user to  join the pages(communities) according to their scenario.
 5) This project provides the user to maintain their friend list and user can update their friend list by sending request and accepting request.
 
-
+# SCREENSHOT
+![Screenshot (497)](https://user-images.githubusercontent.com/16289294/55351630-7bea4600-54dc-11e9-8467-5130bbf8eb4c.png)
